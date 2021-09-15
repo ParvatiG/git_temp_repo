@@ -1,3 +1,4 @@
 file added
 file is modified
 file is deleted
+file is added
